@@ -1,4 +1,4 @@
-## 👋 &nbsp;Olá! I'm Vitor
+## 👋 &nbsp; I'm Vitor
 
 
 ### 🛠 &nbsp;Tech Stack
