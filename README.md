@@ -1,5 +1,10 @@
 ## 👋 &nbsp; I'm Vitor
 
+I grew up between disassembled computer parts and old computers. Now I try to help people and their businesses with technology and innovation.
+
+
+Cresci entre peças de computadores desmontadas e velhos computadores, hoje tento ajudar pessoas e seus negócios com tecnologia e inovação.
+
 
 ### 🛠 &nbsp;Tech Stack
 
