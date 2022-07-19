@@ -18,6 +18,21 @@ Cresci entre peças de computadores desmontadas e velhos computadores, hoje ajud
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+
+
+
+### 🖇 &nbsp;Social
+
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/vitorvigarani)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/cvigarani/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/rossignolli/)
+
+
+
+
+
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
